@@ -1,0 +1,5 @@
+python-libnmap
+argparse
+termcolor
+selenium
+requests
