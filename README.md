@@ -1,7 +1,7 @@
 # CoonShot
 [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/downloads/)
 
-A Python script that allows you to take screenshots of web pages from a url, a file with urls or an nmap output file (.xml).
+A Python script to take screenshots of web pages from a url, a file with urls or an nmap output file (.xml).
 
 
 ## Requirements
